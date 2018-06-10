@@ -45,6 +45,10 @@ h3:first-letter {
     box-sizing: border-box;
 }
 
+.aw-main-banner{
+    position: fixed;
+}
+
 .aw-align-center {
 	align-items: center;
 }
