@@ -45,8 +45,12 @@ h3:first-letter {
     box-sizing: border-box;
 }
 
- img .aw-main-banner{
-    background-attachment: fixed
+ .aw-banner{
+    background-image: url("../img/main-banner.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .aw-align-center {
